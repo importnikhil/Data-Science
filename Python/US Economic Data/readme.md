@@ -5,6 +5,6 @@ This is the Analysis report of US Economic data using Python on IBM Watson Studi
 ![Unemployment Data](unemp.png)  
 # Data where unemployment is > 8.5%
 ![](unempcondition.png)   
-# Dashboard Using Bokeh which has % GDP change over the years as well as % Unemployment
+# Dashboard Using Bokeh which has % GDP change over the years as well as % unemployment
 ![](dashboard.png)  
 
